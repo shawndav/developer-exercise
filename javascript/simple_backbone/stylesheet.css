@@ -1,0 +1,27 @@
+body{
+  background-color: #ECF0F1;
+}
+
+.quote-wrapper{
+  width: 550px;
+  margin: auto;
+  background-color: #3498DB;
+  box-shadow: 2px 2px #2980B9;
+  color: #2C3E50;
+  border-radius:4px;
+  padding:5px;
+}
+
+.context{
+  width: 30%;
+  display: block-inline;
+  border: 1px solid lime;
+}
+
+.theme{
+  border: 1px solid black;
+  display: block-inline;
+  width: 20%;
+
+
+}
