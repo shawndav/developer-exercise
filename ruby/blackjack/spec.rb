@@ -1,5 +1,5 @@
 require 'test/unit'
-require_relative "blackjack"
+require_relative 'helper'
 
 
 class CardTest < Test::Unit::TestCase
