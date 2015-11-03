@@ -47,16 +47,18 @@
 
 
   <script id="quoteTemplate" type="text/template">
-            <div class="quote-wrapper" style="margin-bottom: 21px;">
+            <div class="quote-wrapper">
                 <div class="info">
                     <div class="quote">
-                        <%= quote %>
+                        "<%= quote %>"
                     </div>
+                    <br>
                     <div class="context">
-                        <%= source %>, <%= context %>
+                        -<%= source %>, <%= context %>
                     </div>
+
                     <div class="theme">
-                        <%= theme %>
+                        #<%= theme %>
                     </div>
                 </div>
             </div>

@@ -1,8 +1,8 @@
-$(document).ready(function(){
-  module("Accordion tests");
+// $(document).ready(function(){
+//   module("Accordion tests");
 
-  test("example test", function() {
-    ok(true);
-  });
+//   test("example test", function() {
+//     ok(true);
+//   });
 
-});
+// });
